@@ -1,0 +1,5 @@
+﻿  ImageToolView.cpp
+c:\users\keti-ysp-winlap\documents\test_repo\image processing\tutorial_chap5_181115_1\imagetool\imagetool\imagetoolview.cpp(290): warning C4244: '/=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\keti-ysp-winlap\documents\test_repo\image processing\tutorial_chap5_181115_1\imagetool\imagetool\imagetoolview.cpp(291): warning C4244: '/=': conversion from 'float' to 'LONG', possible loss of data
+  ImageTool.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap5_181115_1\ImageTool\Debug\ImageTool.exe
+  ImageTool.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap5_181115_1\ImageTool\Debug\ImageTool.pdb (Partial PDB)

@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  OutputWnd.cpp
+  MainFrm.cpp
+  IppFilter.cpp
+c:\users\keti-ysp-winlap\documents\test_repo\image processing\tutorial_chap8_181130_1\imagetool\imagetool\ippimage\ippfilter.cpp(101): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\keti-ysp-winlap\documents\test_repo\image processing\tutorial_chap8_181130_1\imagetool\imagetool\ippimage\ippfilter.cpp(189): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  IppEnhance.cpp
+  IppDib.cpp
+  IppConvert.cpp
+  ImageToolView.cpp
+  ImageToolDoc.cpp
+  ImageTool.cpp
+  HistogramDialog.cpp
+  HighBoostDialog.cpp
+  GaussianDialog.cpp
+  GammarCorrectionDialog.cpp
+  FileNewDialog.cpp
+  ChildFrm.cpp
+  BrightContrastDialog.cpp
+  ArithmeticLogicalDialog.cpp
+  Generating Code...
+  LINK : C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap8_181130_1\ImageTool\Debug\ImageTool.exe not found or not built by the last incremental link; performing full link
+  ImageTool.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap8_181130_1\ImageTool\Debug\ImageTool.exe
+  ImageTool.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap8_181130_1\ImageTool\Debug\ImageTool.pdb (Partial PDB)

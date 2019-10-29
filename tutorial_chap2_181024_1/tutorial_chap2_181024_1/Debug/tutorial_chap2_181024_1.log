@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  tutorial_chap2_181024_1View.cpp
+  tutorial_chap2_181024_1Doc.cpp
+  tutorial_chap2_181024_1.cpp
+  MainFrm.cpp
+  ChildFrm.cpp
+  Generating Code...
+  LINK : C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap2_181024_1\Debug\tutorial_chap2_181024_1.exe not found or not built by the last incremental link; performing full link
+  tutorial_chap2_181024_1.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap2_181024_1\Debug\tutorial_chap2_181024_1.exe
+  tutorial_chap2_181024_1.vcxproj -> C:\Users\keti-ysp-winlap\Documents\test_repo\image processing\tutorial_chap2_181024_1\Debug\tutorial_chap2_181024_1.pdb (Partial PDB)
